@@ -10,7 +10,7 @@ Além de coletar as informações dos produtos, tais como nome, preço e o link 
 
 Particularmente eu não achei interessante enviar os dados somente em forma de tabela para o e-mail do usuário, então eu adicionei o envio da tabela de ofertas em anexo, no formato Microsoft Excel(.xlsx)
 
-Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 Selenium
 Pandas
 SMTPlib
